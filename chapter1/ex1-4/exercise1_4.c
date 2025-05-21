@@ -4,7 +4,7 @@
 ///
 #include <stdio.h>
 
-/* This program will  print Fahreheit-Celcius table for
+/* This program will  print Fahrenheit-Celsius table for
  * fahr = 0,20,...,300 */
 
 int main() {

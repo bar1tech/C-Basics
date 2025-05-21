@@ -11,7 +11,7 @@ int main() {
 
     int fahrenheit;
 
-    printf("  C    F\n-----------\n");   /* table heading */
+    printf("  F    C\n-----------\n");   /* table heading */
 
     for (fahrenheit = UPPER; fahrenheit >= LOWER; fahrenheit = fahrenheit - STEP) {
         printf("%3d %6.1f\n", fahrenheit, (5.0/9.0) * (fahrenheit - 32));
