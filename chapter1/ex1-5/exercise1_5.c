@@ -1,7 +1,7 @@
 //
 /// Created by robbar1 on 5/20/25.
 /// exercise1_5.c
-/// print Fahrenheit-Celsius table
+/// print Fahrenheit-Celsius table in reverse order
 //
 #include <stdio.h>
 #define LOWER 0
