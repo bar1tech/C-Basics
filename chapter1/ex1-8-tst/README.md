@@ -1,3 +1,5 @@
+charcount1_8.c
+
 NOTE 1
 What should be the output of this program if we enter the following input ending
 with ctrl-D at the CLI: 1 2 3 4 5
