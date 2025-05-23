@@ -1,11 +1,11 @@
-/*
- * linecount1_8.c
- * 1.5.3 Line Counting
- * The C Progamming Language, 2nd Edition,
- * Brian W. Kernighan, Dennis M. Ritchie
- * Author: robbar1
- * Date: 2025-05-23
- */
+//
+// linecount1_8.c
+// 1.5.3 Line Counting
+// The C Progamming Language, 2nd Edition,
+// Brian W. Kernighan, Dennis M. Ritchie
+// Author: robbar1
+// Date: 05-23-2025
+//
 
 #include <stdio.h>
 /* count lines in input */
