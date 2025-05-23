@@ -5,7 +5,7 @@
 // Created by robbar1 on 1/13/25.
 //
 // The C Progamming Language, 2nd Edition,
-// Robert C. Martin, Brian W. Kernighan, Dennis M. Ritchie
+// Brian W. Kernighan, Dennis M. Ritchie
 //
 // This program counts charaters in input.
 //
