@@ -1,0 +1,4 @@
+This line has 10 spaces 3 tabs:                    
+This line has tab blank tab:        
+
+This line has blank tab blank tab:      
